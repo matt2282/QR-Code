@@ -1,7 +1,7 @@
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
-# Live site URL(https://matt2282.github.io/QR-Code/) 
+## Live site URL: https://matt2282.github.io/QR-Code/
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
