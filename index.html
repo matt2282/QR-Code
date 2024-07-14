@@ -53,15 +53,7 @@ img{
   </style>
 </head>
 <title>Testing QR code</title>
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-        <script type="text/javascript">
-            function generateBarCode()
-            {
-                var nric = $('#text').val();
-                var url = 'https://api.qrserver.com/v1/create-qr-code/?data=' + nric + '&amp;size=50x50';
-                $('#barcode').attr('src', url);
-            }
-          </script>
+        
 <body style="background-color: rgb(214, 225, 240);">
   <div class = "box">
 <img src="images/image-qr-code.png" width="190", height="190">
